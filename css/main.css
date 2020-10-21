@@ -25,8 +25,10 @@ html {
 
 .left-eyebrow {
   transform: rotate(80deg);
+  transform-origin: 100px 82px;
 }
 
 .right-eyebrow {
   transform: rotate(100deg);
+  transform-origin: 156px 82px;
 }
